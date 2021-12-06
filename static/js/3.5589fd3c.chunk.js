@@ -1,2 +1,0 @@
-(this["webpackJsonpkal-rok-dashboard"]=this["webpackJsonpkal-rok-dashboard"]||[]).push([[3],{195:function(a,o,r){"use strict";r.r(o),r.d(o,"default",(function(){return n}));var t=r(183),e=(r(0),r.p,r(2));function n(){return Object(e.jsx)(t.a,{style:s.root,className:"fadein"})}var s={root:{width:"100%",height:"100vh",backgroundColor:"#E5E8ED",backgroundRepeat:"no-repeat"}}}}]);
-//# sourceMappingURL=3.5589fd3c.chunk.js.map
