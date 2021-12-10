@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kal-rok-dashboard-preview/static/css/main.940d8994.chunk.css",
-    "main.js": "/kal-rok-dashboard-preview/static/js/main.ddb4bf5c.chunk.js",
-    "main.js.map": "/kal-rok-dashboard-preview/static/js/main.ddb4bf5c.chunk.js.map",
+    "main.js": "/kal-rok-dashboard-preview/static/js/main.fd420ddb.chunk.js",
+    "main.js.map": "/kal-rok-dashboard-preview/static/js/main.fd420ddb.chunk.js.map",
     "runtime-main.js": "/kal-rok-dashboard-preview/static/js/runtime-main.d05ec520.js",
     "runtime-main.js.map": "/kal-rok-dashboard-preview/static/js/runtime-main.d05ec520.js.map",
     "static/js/2.974835d6.chunk.js": "/kal-rok-dashboard-preview/static/js/2.974835d6.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.d05ec520.js",
     "static/js/2.974835d6.chunk.js",
     "static/css/main.940d8994.chunk.css",
-    "static/js/main.ddb4bf5c.chunk.js"
+    "static/js/main.fd420ddb.chunk.js"
   ]
 }
