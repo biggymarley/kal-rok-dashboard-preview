@@ -3,14 +3,14 @@
     "main.css": "/kal-rok-dashboard-preview/static/css/main.c338bfa8.chunk.css",
     "main.js": "/kal-rok-dashboard-preview/static/js/main.e83afe5d.chunk.js",
     "main.js.map": "/kal-rok-dashboard-preview/static/js/main.e83afe5d.chunk.js.map",
-    "runtime-main.js": "/kal-rok-dashboard-preview/static/js/runtime-main.be0533d6.js",
-    "runtime-main.js.map": "/kal-rok-dashboard-preview/static/js/runtime-main.be0533d6.js.map",
+    "runtime-main.js": "/kal-rok-dashboard-preview/static/js/runtime-main.9a4110d7.js",
+    "runtime-main.js.map": "/kal-rok-dashboard-preview/static/js/runtime-main.9a4110d7.js.map",
     "static/js/2.bc37bfe2.chunk.js": "/kal-rok-dashboard-preview/static/js/2.bc37bfe2.chunk.js",
     "static/js/2.bc37bfe2.chunk.js.map": "/kal-rok-dashboard-preview/static/js/2.bc37bfe2.chunk.js.map",
     "static/js/3.73326ed5.chunk.js": "/kal-rok-dashboard-preview/static/js/3.73326ed5.chunk.js",
     "static/js/3.73326ed5.chunk.js.map": "/kal-rok-dashboard-preview/static/js/3.73326ed5.chunk.js.map",
-    "static/js/4.c3428993.chunk.js": "/kal-rok-dashboard-preview/static/js/4.c3428993.chunk.js",
-    "static/js/4.c3428993.chunk.js.map": "/kal-rok-dashboard-preview/static/js/4.c3428993.chunk.js.map",
+    "static/js/4.9cae5508.chunk.js": "/kal-rok-dashboard-preview/static/js/4.9cae5508.chunk.js",
+    "static/js/4.9cae5508.chunk.js.map": "/kal-rok-dashboard-preview/static/js/4.9cae5508.chunk.js.map",
     "static/js/5.67ea0fb2.chunk.js": "/kal-rok-dashboard-preview/static/js/5.67ea0fb2.chunk.js",
     "static/js/5.67ea0fb2.chunk.js.map": "/kal-rok-dashboard-preview/static/js/5.67ea0fb2.chunk.js.map",
     "index.html": "/kal-rok-dashboard-preview/index.html",
@@ -21,7 +21,7 @@
     "static/media/man.d747105b.webp": "/kal-rok-dashboard-preview/static/media/man.d747105b.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.be0533d6.js",
+    "static/js/runtime-main.9a4110d7.js",
     "static/js/2.bc37bfe2.chunk.js",
     "static/css/main.c338bfa8.chunk.css",
     "static/js/main.e83afe5d.chunk.js"
