@@ -1,0 +1,2 @@
+body{margin:0;background-color:#f9fafb;font-family:"Roboto",sans-serif}@keyframes RtoL{0%{opacity:0;right:100%}to{right:-2%;opacity:.2}}.RtoL{animation:RtoL .5s linear normal}@keyframes fadein{0%{opacity:0}to{opacity:1}}.fadein{animation:fadein .1s linear normal}@keyframes beat{0%{transform:scale(1)}to{transform:scale(1.2)}}.beat{animation:beat .3s linear infinite alternate;-webkit-animation:beat .3s linear infinite alternate}
+/*# sourceMappingURL=main.d5b39ac6.chunk.css.map */
