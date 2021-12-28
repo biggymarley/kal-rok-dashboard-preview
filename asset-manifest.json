@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kal-rok-dashboard-preview/static/css/main.1bdf3307.chunk.css",
-    "main.js": "/kal-rok-dashboard-preview/static/js/main.324eaef9.chunk.js",
-    "main.js.map": "/kal-rok-dashboard-preview/static/js/main.324eaef9.chunk.js.map",
-    "runtime-main.js": "/kal-rok-dashboard-preview/static/js/runtime-main.d3c71f2e.js",
-    "runtime-main.js.map": "/kal-rok-dashboard-preview/static/js/runtime-main.d3c71f2e.js.map",
-    "static/js/2.b34cc1d6.chunk.js": "/kal-rok-dashboard-preview/static/js/2.b34cc1d6.chunk.js",
-    "static/js/2.b34cc1d6.chunk.js.map": "/kal-rok-dashboard-preview/static/js/2.b34cc1d6.chunk.js.map",
-    "static/js/3.54a17cfa.chunk.js": "/kal-rok-dashboard-preview/static/js/3.54a17cfa.chunk.js",
-    "static/js/3.54a17cfa.chunk.js.map": "/kal-rok-dashboard-preview/static/js/3.54a17cfa.chunk.js.map",
+    "main.js": "/kal-rok-dashboard-preview/static/js/main.d9857814.chunk.js",
+    "main.js.map": "/kal-rok-dashboard-preview/static/js/main.d9857814.chunk.js.map",
+    "runtime-main.js": "/kal-rok-dashboard-preview/static/js/runtime-main.3c3832bd.js",
+    "runtime-main.js.map": "/kal-rok-dashboard-preview/static/js/runtime-main.3c3832bd.js.map",
+    "static/js/2.a5726d81.chunk.js": "/kal-rok-dashboard-preview/static/js/2.a5726d81.chunk.js",
+    "static/js/2.a5726d81.chunk.js.map": "/kal-rok-dashboard-preview/static/js/2.a5726d81.chunk.js.map",
+    "static/js/3.6df1a7d5.chunk.js": "/kal-rok-dashboard-preview/static/js/3.6df1a7d5.chunk.js",
+    "static/js/3.6df1a7d5.chunk.js.map": "/kal-rok-dashboard-preview/static/js/3.6df1a7d5.chunk.js.map",
     "index.html": "/kal-rok-dashboard-preview/index.html",
     "static/css/main.1bdf3307.chunk.css.map": "/kal-rok-dashboard-preview/static/css/main.1bdf3307.chunk.css.map",
-    "static/js/2.b34cc1d6.chunk.js.LICENSE.txt": "/kal-rok-dashboard-preview/static/js/2.b34cc1d6.chunk.js.LICENSE.txt",
+    "static/js/2.a5726d81.chunk.js.LICENSE.txt": "/kal-rok-dashboard-preview/static/js/2.a5726d81.chunk.js.LICENSE.txt",
     "static/media/404.47914232.svg": "/kal-rok-dashboard-preview/static/media/404.47914232.svg",
     "static/media/index.css": "/kal-rok-dashboard-preview/static/media/Helvetica.06113bf7.ttf",
     "static/media/Vector.18526876.svg": "/kal-rok-dashboard-preview/static/media/Vector.18526876.svg",
@@ -20,12 +20,15 @@
     "static/media/logo1.4e65309b.svg": "/kal-rok-dashboard-preview/static/media/logo1.4e65309b.svg",
     "static/media/man.d747105b.webp": "/kal-rok-dashboard-preview/static/media/man.d747105b.webp",
     "static/media/noMsgs.71021eba.svg": "/kal-rok-dashboard-preview/static/media/noMsgs.71021eba.svg",
-    "static/media/noTour.6230b638.svg": "/kal-rok-dashboard-preview/static/media/noTour.6230b638.svg"
+    "static/media/noTour.6230b638.svg": "/kal-rok-dashboard-preview/static/media/noTour.6230b638.svg",
+    "static/media/s1.0f75c17a.png": "/kal-rok-dashboard-preview/static/media/s1.0f75c17a.png",
+    "static/media/s2.e3580a45.png": "/kal-rok-dashboard-preview/static/media/s2.e3580a45.png",
+    "static/media/s3.d657a5b8.png": "/kal-rok-dashboard-preview/static/media/s3.d657a5b8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3c71f2e.js",
-    "static/js/2.b34cc1d6.chunk.js",
+    "static/js/runtime-main.3c3832bd.js",
+    "static/js/2.a5726d81.chunk.js",
     "static/css/main.1bdf3307.chunk.css",
-    "static/js/main.324eaef9.chunk.js"
+    "static/js/main.d9857814.chunk.js"
   ]
 }
